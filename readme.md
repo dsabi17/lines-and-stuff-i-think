@@ -7,5 +7,5 @@ It is made for my amusement and i usually add to it on long train rides 😌✌�
 just run the cells, there is one for every function with a very brief description for each, there are a lot of parameters that can be tuned
 
 ## Cute generation examples
-
-![These are random rainbow flowers](https://github.com/dsabi17/lines-and-stuff-i-think/blob/main/output/dandelions.png)
+These are random rainbow flowers
+<img src="https://github.com/dsabi17/lines-and-stuff-i-think/blob/main/output/dandelions.png" width="400px" align="center">
