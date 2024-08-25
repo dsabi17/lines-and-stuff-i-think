@@ -8,3 +8,4 @@ just run the cells, there is one for every function with a very brief descriptio
 
 ## Cute generation examples
 
+![These are random rainbow flowers](https://github.com/dsabi17/lines-and-stuff-i-think/blob/main/output/dandelions.png)
