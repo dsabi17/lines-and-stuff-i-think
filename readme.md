@@ -16,7 +16,7 @@ just run the cells, there is one for every function with a very brief descriptio
 
 <img src="https://github.com/dsabi17/lines-and-stuff-i-think/blob/main/output/flower_power_1.png" width="400px" align="center">
 
-* Fractal tree with noise added and no symmetry, with complementary angle pair of 30 - 60
+* Fractal tree with added noise and no symmetry, complementary angle pair of 30 - 60
 
 <img src="https://github.com/dsabi17/lines-and-stuff-i-think/blob/main/output/tree_noise_no_symmetry.png" width="400px" align="center">
 
