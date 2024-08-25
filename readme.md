@@ -28,6 +28,7 @@ just run the cells, there is one for every function with a very brief descriptio
 
 <img src="https://github.com/dsabi17/lines-and-stuff-i-think/blob/main/output/composition.png" width="400px" align="center">
 
+there's more in the output folder :D
 
 ## Explaination for neeerdz
 
